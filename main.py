@@ -3,6 +3,13 @@ from modules.admin_ops import list_bikes, add_bike, update_bike, remove_bike, vi
 from modules.user_ops import register_user, login_user, list_available_bikes, rent_bike, return_bike, rental_history
 from modules.pricing import get_pricing, update_pricing
 
+ADMINS_FILE = 'admin.json'
+BIKES_FILE = 'bikes.json'
+USERS_FILE = 'users.json'
+RENTALS_FILE = 'rentals.json'
+REPORTS_FILE = 'reports.json'
+
+
 ADMIN_PASS = 'admin123'  # for demo
 
 def admin_menu():
@@ -162,4 +169,5 @@ def main_menu():
 
 if __name__ == '__main__':
     main_menu()
+
 
