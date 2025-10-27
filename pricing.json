@@ -1,9 +1,37 @@
 [
-    {
-        "pricing_id": "PR1",
-        "type": "default",
-        "base_rate_hourly": 10.0,
-        "base_rate_daily": 100.0,
-        "updated_on": "2025-10-27T11:29:21"
-    }
+  {
+    "pricing_id": "PR1",
+    "type": "scooter",
+    "base_rate_hourly": 8.0,
+    "base_rate_daily": 40.0,
+    "updated_on": "2025-10-27T11:29:21"
+  },
+  {
+    "pricing_id": "PR2",
+    "type": "mountain",
+    "base_rate_hourly": 10.0,
+    "base_rate_daily": 50.0,
+    "updated_on": "2025-10-27T11:29:21"
+  },
+  {
+    "pricing_id": "PR3",
+    "type": "Electric",
+    "base_rate_hourly": 6.0,
+    "base_rate_daily": 30.0,
+    "updated_on": "2025-10-27T11:29:21"
+  },
+  {
+    "pricing_id": "PR4",
+    "type": "Sports",
+    "base_rate_hourly": 7.0,
+    "base_rate_daily": 35.0,
+    "updated_on": "2025-10-27T11:29:21"
+  },
+  {
+    "pricing_id": "PR5",
+    "type": "default",
+    "base_rate_hourly": 10.0,
+    "base_rate_daily": 100.0,
+    "updated_on": "2025-10-27T11:29:21"
+  }
 ]
