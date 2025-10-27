@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": "U1",
+        "name": "Alice",
+        "age": 25,
+        "license_no": "L001",
+        "contact": "+911234567890",
+        "registered_on": "2025-10-01T10:00:00"
+    },
+    {
+        "user_id": "U1761545213291",
+        "name": "shivani",
+        "age": 18,
+        "license_no": "l1",
+        "contact": "8240529956",
+        "registered_on": "2025-10-27T11:36:53"
+    }
+]

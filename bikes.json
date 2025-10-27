@@ -1,0 +1,162 @@
+[
+    {
+        "bike_id": "B1",
+        "model": "Scooter A",
+        "type": "scooter",
+        "rent_hourly": 15.0,
+        "rent_daily": 60.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B2",
+        "model": "Mountain bike A",
+        "type": "mountain",
+        "rent_hourly": 12.0,
+        "rent_daily": 60.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B3",
+        "model": "e-bike A",
+        "type": "Electric",
+        "rent_hourly": 7.5,
+        "rent_daily": 30.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B4",
+        "model": "Sports bike A",
+        "type": "Sports",
+        "rent_hourly": 8.0,
+        "rent_daily": 32.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B5",
+        "model": "Scooter B",
+        "type": "scooter",
+        "rent_hourly": 10.0,
+        "rent_daily": 40.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B6",
+        "model": "Mountain bike B",
+        "type": "mountain",
+        "rent_hourly": 20.0,
+        "rent_daily": 80.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B7",
+        "model": "e-bike B",
+        "type": "Electric",
+        "rent_hourly": 4.5,
+        "rent_daily": 18.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B8",
+        "model": "Sports bike B",
+        "type": "Sports",
+        "rent_hourly": 6.5,
+        "rent_daily": 26.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B9",
+        "model": "Scooter C",
+        "type": "scooter",
+        "rent_hourly": 5.0,
+        "rent_daily": 25.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B10",
+        "model": "Mountain bike C",
+        "type": "mountain",
+        "rent_hourly": 8.0,
+        "rent_daily": 32.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B11",
+        "model": "e-bike C",
+        "type": "Electric",
+        "rent_hourly": 4.0,
+        "rent_daily": 48.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B12",
+        "model": "Sports bike C",
+        "type": "Sports",
+        "rent_hourly": 3.0,
+        "rent_daily": 12.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B13",
+        "model": "Scooter D",
+        "type": "scooter",
+        "rent_hourly": 5.0,
+        "rent_daily": 20.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B14",
+        "model": "Mountain bike D",
+        "type": "mountain",
+        "rent_hourly": 6.0,
+        "rent_daily": 56.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B15",
+        "model": "e-bike D",
+        "type": "Electric",
+        "rent_hourly": 4.0,
+        "rent_daily": 46.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B16",
+        "model": "Sports bike D",
+        "type": "Sports",
+        "rent_hourly": 3.5,
+        "rent_daily": 40.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B17",
+        "model": "Scooter E",
+        "type": "scooter",
+        "rent_hourly": 5.0,
+        "rent_daily": 75.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B18",
+        "model": "Mountain bike E",
+        "type": "mountain",
+        "rent_hourly": 6.0,
+        "rent_daily": 16.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B19",
+        "model": "Sports bike E",
+        "type": "Sports",
+        "rent_hourly": 6.0,
+        "rent_daily": 50.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B20",
+        "model": "e-bike E",
+        "type": "Electric",
+        "rent_hourly": 6.0,
+        "rent_daily": 18.0,
+        "availability": true
+    }
+]

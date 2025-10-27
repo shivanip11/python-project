@@ -1,0 +1,12 @@
+[
+    {
+        "rental_id": "RE1761545374855",
+        "user_id": "U1761545213291",
+        "bike_id": "B1",
+        "start_time": "2025-10-27T11:39:34",
+        "end_time": "2025-10-27T11:40:05",
+        "duration": "0 days, 6.0 hours",
+        "cost": 90.0,
+        "status": "closed"
+    }
+]
