@@ -198,7 +198,7 @@
     "duration": 2,
     "cost": 12.0,
     "status": "cancelled"
-  }
+  },
   {
         "rental_id": "R021",
         "user_id": "U15",
@@ -300,5 +300,6 @@
         "status": "completed"
     }
 ]
+
 
 
