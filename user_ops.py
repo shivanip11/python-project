@@ -78,3 +78,17 @@ def rental_history(user_id: str):
     my = [r for r in rentals if r.get('user_id') == user_id]
     print_table(my, headers=['rental_id','bike_id','start_time','end_time','duration','cost','status'])
     return my
+def update_profile(user_id: str, name: str=None, age: int=None, license_no: str=None, contact: str=None):
+    user = find_by_key(USERS_FILE, 'user_id', user_id)
+    if not user:
+        raise ValueError('User not found')
+    if name:
+        user['name'] = name
+    if age:
+        user['age'] = int(age)
+    if license_no:
+        user['license_no'] = license_no
+    if contact:
+        user['contact'] = contact
+    update_item(USERS_FILE, 'user_id', user_id, user)
+    return user
