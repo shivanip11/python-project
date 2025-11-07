@@ -1,1 +1,67 @@
-[]
+[
+    {
+        "report_id": "R1761757252263",
+        "type": "basic",
+        "parameters": {
+            "most_rented_bikes": [
+                "B1"
+            ],
+            "times_rented": 2,
+            "total_revenue": 135.0,
+            "pending_returns": 1
+        },
+        "generated_on": "29-10-2025"
+    },
+    {
+        "report_id": "R1761757304845",
+        "type": "basic",
+        "parameters": {
+            "most_rented_bikes": [
+                "B1"
+            ],
+            "times_rented": 2,
+            "total_revenue": 135.0,
+            "pending_returns": 1
+        },
+        "generated_on": "29-10-2025"
+    },
+    {
+        "report_id": "R1761757495790",
+        "type": "basic",
+        "parameters": {
+            "most_rented_bikes": [
+                "B1"
+            ],
+            "times_rented": 2,
+            "total_revenue": 135.0,
+            "pending_returns": 1
+        },
+        "generated_on": "29-10-2025"
+    },
+    {
+        "report_id": "R1761758251660",
+        "type": "basic",
+        "parameters": {
+            "most_rented_bikes": [
+                "B1"
+            ],
+            "times_rented": 2,
+            "total_revenue": 135.0,
+            "pending_returns": 1
+        },
+        "generated_on": "29-10-2025"
+    },
+    {
+        "report_id": "R1762501570459",
+        "type": "basic",
+        "parameters": {
+            "most_rented_bikes": [
+                "B1"
+            ],
+            "times_rented": 2,
+            "total_revenue": 135.0,
+            "pending_returns": 1
+        },
+        "generated_on": "07-11-2025"
+    }
+]
