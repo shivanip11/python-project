@@ -133,7 +133,7 @@
         "type": "scooter",
         "rent_hourly": 5.0,
         "rent_daily": 75.0,
-        "availability": true
+        "availability": false
     },
     {
         "bike_id": "B18",
@@ -157,6 +157,22 @@
         "type": "Electric",
         "rent_hourly": 6.0,
         "rent_daily": 18.0,
+        "availability": false
+    },
+    {
+        "bike_id": "B1761757358339",
+        "model": "B50",
+        "type": "scooter",
+        "rent_hourly": 80.0,
+        "rent_daily": 20000.0,
+        "availability": true
+    },
+    {
+        "bike_id": "B1762501395642",
+        "model": "royal enfield",
+        "type": "scooter",
+        "rent_hourly": 80.0,
+        "rent_daily": 20000.0,
         "availability": true
     }
 ]
