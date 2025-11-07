@@ -1,6 +1,6 @@
 from modules.utilities import clear_screen, pause
-from modules.admin_ops import list_bikes, add_bike, remove_bike, view_rentals, change_rental_status, generate_basic_reports
-from modules.user_ops import register_user, login_user, list_available_bikes, rent_bike, return_bike, rental_history
+from modules.admin import list_bikes, add_bike, remove_bike, view_rentals, change_rental_status, generate_basic_reports
+from modules.user import register_user, login_user, list_available_bikes, rent_bike, return_bike, rental_history
 from modules.pricing import get_pricing, update_pricing
 
 ADMINS_FILE = 'admin.json'
@@ -187,4 +187,5 @@ def main_menu():
 
 if __name__ == '__main__':
     main_menu()
+
 
