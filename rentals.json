@@ -1,210 +1,210 @@
 [
-  {
-    "rental_id": "R001",
-    "user_id": "U1",
-    "bike_id": "B3",
-    "start_time": "2025-10-20T09:00:00",
-    "end_time": "2025-10-20T13:00:00",
-    "duration": 4,
-    "cost": 30.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R002",
-    "user_id": "U2",
-    "bike_id": "B8",
-    "start_time": "2025-10-21T10:30:00",
-    "end_time": "2025-10-21T15:30:00",
-    "duration": 5,
-    "cost": 32.5,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R003",
-    "user_id": "U3",
-    "bike_id": "B15",
-    "start_time": "2025-10-22T12:00:00",
-    "end_time": "2025-10-22T15:00:00",
-    "duration": 3,
-    "cost": 12.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R004",
-    "user_id": "U4",
-    "bike_id": "B6",
-    "start_time": "2025-10-19T08:00:00",
-    "end_time": "2025-10-19T12:00:00",
-    "duration": 4,
-    "cost": 80.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R005",
-    "user_id": "U5",
-    "bike_id": "B12",
-    "start_time": "2025-10-23T14:00:00",
-    "end_time": "2025-10-23T17:00:00",
-    "duration": 3,
-    "cost": 9.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R006",
-    "user_id": "U6",
-    "bike_id": "B10",
-    "start_time": "2025-10-18T09:30:00",
-    "end_time": "2025-10-18T11:30:00",
-    "duration": 2,
-    "cost": 16.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R007",
-    "user_id": "U7",
-    "bike_id": "B5",
-    "start_time": "2025-10-22T15:00:00",
-    "end_time": "2025-10-22T18:00:00",
-    "duration": 3,
-    "cost": 30.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R008",
-    "user_id": "U8",
-    "bike_id": "B11",
-    "start_time": "2025-10-21T08:45:00",
-    "end_time": "2025-10-21T12:45:00",
-    "duration": 4,
-    "cost": 16.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R009",
-    "user_id": "U9",
-    "bike_id": "B1",
-    "start_time": "2025-10-24T10:00:00",
-    "end_time": "2025-10-24T16:00:00",
-    "duration": 6,
-    "cost": 90.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R010",
-    "user_id": "U10",
-    "bike_id": "B16",
-    "start_time": "2025-10-23T11:15:00",
-    "end_time": "2025-10-23T13:15:00",
-    "duration": 2,
-    "cost": 7.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R011",
-    "user_id": "U11",
-    "bike_id": "B9",
-    "start_time": "2025-10-20T09:00:00",
-    "end_time": "2025-10-20T12:00:00",
-    "duration": 3,
-    "cost": 15.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R012",
-    "user_id": "U12",
-    "bike_id": "B18",
-    "start_time": "2025-10-25T13:00:00",
-    "end_time": "2025-10-25T17:00:00",
-    "duration": 4,
-    "cost": 24.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R013",
-    "user_id": "U13",
-    "bike_id": "B7",
-    "start_time": "2025-10-19T10:00:00",
-    "end_time": "2025-10-19T13:00:00",
-    "duration": 3,
-    "cost": 13.5,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R014",
-    "user_id": "U14",
-    "bike_id": "B19",
-    "start_time": "2025-10-22T09:00:00",
-    "end_time": "2025-10-22T14:00:00",
-    "duration": 5,
-    "cost": 30.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R015",
-    "user_id": "U15",
-    "bike_id": "B2",
-    "start_time": "2025-10-23T08:30:00",
-    "end_time": "2025-10-23T11:30:00",
-    "duration": 3,
-    "cost": 36.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R016",
-    "user_id": "U16",
-    "bike_id": "B13",
-    "start_time": "2025-10-21T10:00:00",
-    "end_time": "2025-10-21T12:00:00",
-    "duration": 2,
-    "cost": 10.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R017",
-    "user_id": "U17",
-    "bike_id": "B17",
-    "start_time": "2025-10-20T11:30:00",
-    "end_time": "2025-10-20T15:30:00",
-    "duration": 4,
-    "cost": 20.0,
-    "status": "completed"
-  },
-  {
-    "rental_id": "R018",
-    "user_id": "U18",
-    "bike_id": "B20",
-    "start_time": "2025-10-25T12:00:00",
-    "end_time": "2025-10-25T14:00:00",
-    "duration": 2,
-    "cost": 12.0,
-    "status": "ongoing"
-  },
-  {
-    "rental_id": "R019",
-    "user_id": "U19",
-    "bike_id": "B4",
-    "start_time": "2025-10-26T09:45:00",
-    "end_time": "2025-10-26T11:45:00",
-    "duration": 2,
-    "cost": 16.0,
-    "status": "ongoing"
-  },
-  {
-    "rental_id": "R020",
-    "user_id": "U20",
-    "bike_id": "B14",
-    "start_time": "2025-10-27T08:00:00",
-    "end_time": "2025-10-27T10:00:00",
-    "duration": 2,
-    "cost": 12.0,
-    "status": "cancelled"
-  },
-  {
+    {
+        "rental_id": "R001",
+        "user_id": "U1",
+        "bike_id": "B3",
+        "start_time": "2025-10-20",
+        "end_time": "2025-10-20",
+        "duration": 4,
+        "cost": 30.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R002",
+        "user_id": "U2",
+        "bike_id": "B8",
+        "start_time": "2025-10-21",
+        "end_time": "2025-10-21",
+        "duration": 5,
+        "cost": 32.5,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R003",
+        "user_id": "U3",
+        "bike_id": "B15",
+        "start_time": "2025-10-22",
+        "end_time": "2025-10-22",
+        "duration": 3,
+        "cost": 12.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R004",
+        "user_id": "U4",
+        "bike_id": "B6",
+        "start_time": "2025-10-19",
+        "end_time": "2025-10-19",
+        "duration": 4,
+        "cost": 80.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R005",
+        "user_id": "U5",
+        "bike_id": "B12",
+        "start_time": "2025-10-23",
+        "end_time": "2025-10-23",
+        "duration": 3,
+        "cost": 9.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R006",
+        "user_id": "U6",
+        "bike_id": "B10",
+        "start_time": "2025-10-18",
+        "end_time": "2025-10-18",
+        "duration": 2,
+        "cost": 16.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R007",
+        "user_id": "U7",
+        "bike_id": "B5",
+        "start_time": "2025-10-22",
+        "end_time": "2025-10-22",
+        "duration": 3,
+        "cost": 30.0,
+        "status": "closed"
+    },
+    {
+        "rental_id": "R008",
+        "user_id": "U8",
+        "bike_id": "B11",
+        "start_time": "2025-10-21",
+        "end_time": "2025-10-21",
+        "duration": 4,
+        "cost": 16.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R009",
+        "user_id": "U9",
+        "bike_id": "B1",
+        "start_time": "2025-10-24",
+        "end_time": "2025-10-24",
+        "duration": 6,
+        "cost": 90.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R010",
+        "user_id": "U10",
+        "bike_id": "B16",
+        "start_time": "2025-10-23",
+        "end_time": "2025-10-23",
+        "duration": 2,
+        "cost": 7.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R011",
+        "user_id": "U11",
+        "bike_id": "B9",
+        "start_time": "2025-10-20",
+        "end_time": "2025-10-20",
+        "duration": 3,
+        "cost": 15.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R012",
+        "user_id": "U12",
+        "bike_id": "B18",
+        "start_time": "2025-10-25",
+        "end_time": "2025-10-25",
+        "duration": 4,
+        "cost": 24.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R013",
+        "user_id": "U13",
+        "bike_id": "B7",
+        "start_time": "2025-10-19",
+        "end_time": "2025-10-19",
+        "duration": 3,
+        "cost": 13.5,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R014",
+        "user_id": "U14",
+        "bike_id": "B19",
+        "start_time": "2025-10-22",
+        "end_time": "2025-10-22",
+        "duration": 5,
+        "cost": 30.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R015",
+        "user_id": "U15",
+        "bike_id": "B2",
+        "start_time": "2025-10-23",
+        "end_time": "2025-10-23",
+        "duration": 3,
+        "cost": 36.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R016",
+        "user_id": "U16",
+        "bike_id": "B13",
+        "start_time": "2025-10-21",
+        "end_time": "2025-10-21",
+        "duration": 2,
+        "cost": 10.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R017",
+        "user_id": "U17",
+        "bike_id": "B17",
+        "start_time": "2025-10-20",
+        "end_time": "2025-10-20",
+        "duration": 4,
+        "cost": 20.0,
+        "status": "completed"
+    },
+    {
+        "rental_id": "R018",
+        "user_id": "U18",
+        "bike_id": "B20",
+        "start_time": "2025-10-25",
+        "end_time": "2025-10-25",
+        "duration": 2,
+        "cost": 12.0,
+        "status": "ongoing"
+    },
+    {
+        "rental_id": "R019",
+        "user_id": "U19",
+        "bike_id": "B4",
+        "start_time": "2025-10-26",
+        "end_time": "2025-10-26",
+        "duration": 2,
+        "cost": 16.0,
+        "status": "ongoing"
+    },
+    {
+        "rental_id": "R020",
+        "user_id": "U20",
+        "bike_id": "B14",
+        "start_time": "2025-10-27",
+        "end_time": "2025-10-27",
+        "duration": 2,
+        "cost": 12.0,
+        "status": "cancelled"
+    },
+    {
         "rental_id": "R021",
         "user_id": "U15",
         "bike_id": "B05",
-        "start_time": "2025-10-27T09:30:00",
-        "end_time": "2025-10-27T11:30:00",
+        "start_time": "2025-10-27",
+        "end_time": "2025-10-27",
         "duration": 2,
         "cost": 14.0,
         "status": "completed"
@@ -213,8 +213,8 @@
         "rental_id": "R022",
         "user_id": "U08",
         "bike_id": "B12",
-        "start_time": "2025-10-27T07:00:00",
-        "end_time": "2025-10-27T08:30:00",
+        "start_time": "2025-10-27",
+        "end_time": "2025-10-27",
         "duration": 1.5,
         "cost": 9.0,
         "status": "completed"
@@ -223,8 +223,8 @@
         "rental_id": "R023",
         "user_id": "U03",
         "bike_id": "B07",
-        "start_time": "2025-10-26T17:00:00",
-        "end_time": "2025-10-26T19:00:00",
+        "start_time": "2025-10-26",
+        "end_time": "2025-10-26",
         "duration": 2,
         "cost": 12.0,
         "status": "completed"
@@ -233,8 +233,8 @@
         "rental_id": "R024",
         "user_id": "U18",
         "bike_id": "B09",
-        "start_time": "2025-10-27T12:00:00",
-        "end_time": "2025-10-27T13:30:00",
+        "start_time": "2025-10-27",
+        "end_time": "2025-10-27",
         "duration": 1.5,
         "cost": 9.0,
         "status": "ongoing"
@@ -243,8 +243,8 @@
         "rental_id": "R025",
         "user_id": "U11",
         "bike_id": "B02",
-        "start_time": "2025-10-26T10:00:00",
-        "end_time": "2025-10-26T13:00:00",
+        "start_time": "2025-10-26",
+        "end_time": "2025-10-26",
         "duration": 3,
         "cost": 18.0,
         "status": "completed"
@@ -253,8 +253,8 @@
         "rental_id": "R026",
         "user_id": "U06",
         "bike_id": "B16",
-        "start_time": "2025-10-27T06:30:00",
-        "end_time": "2025-10-27T07:00:00",
+        "start_time": "2025-10-27",
+        "end_time": "2025-10-27",
         "duration": 0.5,
         "cost": 3.0,
         "status": "cancelled"
@@ -263,8 +263,8 @@
         "rental_id": "R027",
         "user_id": "U09",
         "bike_id": "B04",
-        "start_time": "2025-10-27T15:00:00",
-        "end_time": "2025-10-27T17:30:00",
+        "start_time": "2025-10-27",
+        "end_time": "2025-10-27",
         "duration": 2.5,
         "cost": 15.0,
         "status": "completed"
@@ -273,8 +273,8 @@
         "rental_id": "R028",
         "user_id": "U02",
         "bike_id": "B01",
-        "start_time": "2025-10-25T09:00:00",
-        "end_time": "2025-10-25T11:00:00",
+        "start_time": "2025-10-25",
+        "end_time": "2025-10-25",
         "duration": 2,
         "cost": 12.0,
         "status": "completed"
@@ -283,8 +283,8 @@
         "rental_id": "R029",
         "user_id": "U13",
         "bike_id": "B08",
-        "start_time": "2025-10-27T14:00:00",
-        "end_time": "2025-10-27T14:45:00",
+        "start_time": "2025-10-27",
+        "end_time": "2025-10-27",
         "duration": 0.75,
         "cost": 4.5,
         "status": "cancelled"
@@ -293,13 +293,50 @@
         "rental_id": "R030",
         "user_id": "U10",
         "bike_id": "B10",
-        "start_time": "2025-10-26T18:00:00",
-        "end_time": "2025-10-26T20:00:00",
+        "start_time": "2025-10-26",
+        "end_time": "2025-10-26",
         "duration": 2,
         "cost": 12.0,
         "status": "completed"
+    },
+    {
+        "rental_id": "RE1761755326538",
+        "user_id": "U3",
+        "bike_id": "B1",
+        "start_time": "29-10-2025",
+        "end_time": "29-10-2025",
+        "duration": "0 days, 5.0 hours",
+        "cost": 75.0,
+        "status": "closed"
+    },
+    {
+        "rental_id": "RE1761755580030",
+        "user_id": "U1",
+        "bike_id": "B1",
+        "start_time": "29-10-2025",
+        "end_time": "29-10-2025",
+        "duration": "0 days, 2.0 hours",
+        "cost": 30.0,
+        "status": "closed"
+    },
+    {
+        "rental_id": "RE1761756486936",
+        "user_id": "U4",
+        "bike_id": "B20",
+        "start_time": "29-10-2025",
+        "end_time": null,
+        "duration": "2 days, 0 hours",
+        "cost": 36.0,
+        "status": "active"
+    },
+    {
+        "rental_id": "RE1762506298425",
+        "user_id": "U1",
+        "bike_id": "B17",
+        "start_time": "07-11-2025",
+        "end_time": null,
+        "duration": "0 days, 3.8 hours",
+        "cost": 19.0,
+        "status": "close"
     }
 ]
-
-
-
